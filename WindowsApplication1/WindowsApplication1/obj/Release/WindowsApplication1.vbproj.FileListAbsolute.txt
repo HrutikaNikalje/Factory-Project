@@ -1,0 +1,71 @@
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.CUSTOMER.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.LOGIN.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.ORDER.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form11.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.SALES.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.PURCHASE.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.BILL.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form15.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form16.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.FRANCHISE.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.MDI.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.TOOLS.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.MARKETING.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.SUPPLIER.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.STOCK.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.STAFF.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.INQUIRY.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\factory.mdb
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe.config
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmCustomer.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmCustomerDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmEnquiryDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmExpenseDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmFranchiseDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmHomeDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmMarketing.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmMarketingDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmProduct.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmProductDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmPurchaseDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmReservationDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmSalesDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmStaffDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmStockDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmSupplierDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmToolsDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.LOGIN.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmOrder.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmHome.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmSales.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmPurchase.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmBill.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmExpense.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmReservation.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmFranchise.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.MDI.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmTools.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmSupplier.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmStock.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmStaff.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.frmEnquiry.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb

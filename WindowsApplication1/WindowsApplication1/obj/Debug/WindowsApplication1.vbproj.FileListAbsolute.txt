@@ -1,0 +1,153 @@
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form15.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form16.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ORDER.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SALES.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PURCHASE.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.BILL.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FRANCHISE.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MDI.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOOLS.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SUPPLIER.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.STOCK.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.STAFF.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.INQUIRY.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CUSTOMER.resources
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\SEMISTER 6- PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MARKETING.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MDI.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmTools.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmCustomer.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmMarketing.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmOrder.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSales.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmBill.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFranchise.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSupplier.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStock.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStaff.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmEnquiry.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmHome.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmExpense.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmReservation.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmCustomerDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmEnquiryDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmExpenseDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFranchiseDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmHomeDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmMarketingDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmReservationDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStaffDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStockDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSupplierDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmToolsDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSalesDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchaseDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmProduct.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmProductDetail.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmCustomerUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmEnquiryUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFranchiseUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStaffUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStockUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSupplierUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmToolsUpdate.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CUSTOMER.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PRODUCT.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ENQUIRY.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.EXPENSE.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FRANCHISE.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.HOME.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MARKETING.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PURCHASE.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SALES.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.RESERVATION.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.STAFF.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.STOCK.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SUPPLIER.resources
+D:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOOLS.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CUSTOMER.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ENQUIRY.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.EXPENSE.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FRANCHISE.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmCustomer.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmCustomerDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmEnquiryDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmEnquiryUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmExpenseDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFranchiseDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFranchiseUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmHomeDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmMarketing.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmMarketingDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmProduct.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmProductDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchaseDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmReservationDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSalesDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStaffDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStaffUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStockDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStockUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSupplierDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSupplierUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmToolsDetail.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmToolsUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.HOME.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LOGIN.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmOrder.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmHome.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSales.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmPurchase.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmBill.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmExpense.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmReservation.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmFranchise.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MARKETING.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MDI.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmTools.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmSupplier.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStock.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmStaff.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmEnquiry.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmCustomerUpdate.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PRODUCT.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PURCHASE.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.RESERVATION.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SALES.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.STAFF.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.STOCK.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SUPPLIER.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TOOLS.resources
+E:\PROJECT\MAIN PROJECT\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
